@@ -1,0 +1,14 @@
+
+func main() {
+  expresion_1 = "algo"
+  _expresion2 = 213
+
+  Expresion3_ = -2332.23
+
+  2 * 2
+  4 ** 4
+  case : { 
+    "case"
+   }
+  return 0;
+}
